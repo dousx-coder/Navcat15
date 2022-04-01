@@ -12,3 +12,5 @@
 ![image-20220331094345909](https://cruder-figure-bed.oss-cn-beijing.aliyuncs.com/markdown/2022/03/31/09-43-46-183.png)
 ## 5. 弹出`成功`提示
 ![image-20220331094427483](https://cruder-figure-bed.oss-cn-beijing.aliyuncs.com/markdown/2022/03/31/09-44-27-800.png)
+## 6.关闭检查更新
+![image-20220401122410977](https://cruder-figure-bed.oss-cn-beijing.aliyuncs.com/markdown/2022/04/01/12-24-11-233.png)
